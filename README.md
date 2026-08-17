@@ -3,7 +3,7 @@
 # Привет, я Сергей Ноздров
 
 <a href="https://ns.нейросинк.рф/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=620&height=50&color=58A6FF&vCenter=true&pause=1000&size=22&lines=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2%3BAI-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%8B%3B%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%3BVibecoding" alt="Typing SVG" />
+  <img src="assets/typing.svg" alt="Typing SVG" />
 </a>
 
 **Автоматизация бизнес-процессов • AI-агенты • Нейросети • Vibecoding**
@@ -43,21 +43,6 @@ ANEX забирает горящие туры из TourVisor примерно с
 
 Скилы Imagen, Veo, MAX и pixel-office для Hermes и OpenClaw. Рядом Mini App к датчикам Escort TH-BLE по Bluetooth.
 
-<div align="center">
-  <a href="https://github.com/SC32br/hermes-skill-imagen-vertex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC32br&repo=hermes-skill-imagen-vertex&theme=radical&hide_border=true&bg_color=0D1117" alt="hermes-skill-imagen-vertex" />
-  </a>
-  <a href="https://github.com/SC32br/hermes-skill-veo-vertex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC32br&repo=hermes-skill-veo-vertex&theme=radical&hide_border=true&bg_color=0D1117" alt="hermes-skill-veo-vertex" />
-  </a>
-  <a href="https://github.com/SC32br/openclaw-skill-pixel-office">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC32br&repo=openclaw-skill-pixel-office&theme=radical&hide_border=true&bg_color=0D1117" alt="openclaw-skill-pixel-office" />
-  </a>
-  <a href="https://github.com/SC32br/hermes-skill-max-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SC32br&repo=hermes-skill-max-bot&theme=radical&hide_border=true&bg_color=0D1117" alt="hermes-skill-max-bot" />
-  </a>
-</div>
-
 [openclaw-skill-max-bot](https://github.com/SC32br/openclaw-skill-max-bot) · [escort-th-ble-miniapp](https://github.com/SC32br/escort-th-ble-miniapp)
 
 ## Стек
@@ -74,11 +59,6 @@ ANEX забирает горящие туры из TourVisor примерно с
 ![Telegram](https://img.shields.io/badge/Telegram-MAX-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-OpenClaw-000000?style=for-the-badge)
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SC32br&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC32br&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top languages" />
 </div>
 
 Беру удалённые заказы на автоматизацию процессов, агентов и внедрение нейросетей.
