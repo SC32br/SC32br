@@ -3,7 +3,7 @@
 # Привет, я Сергей Ноздров
 
 <a href="https://ns.нейросинк.рф/">
-  <img src="assets/typing.svg" alt="Typing SVG" />
+  <img src="https://cdn.jsdelivr.net/gh/SC32br/SC32br@main/assets/typing.svg" alt="Typing SVG" />
 </a>
 
 **Автоматизация бизнес-процессов • AI-агенты • Нейросети • Vibecoding**
@@ -41,9 +41,7 @@ ANEX забирает горящие туры из TourVisor примерно с
 
 ## Open source
 
-Скилы Imagen, Veo, MAX и pixel-office для Hermes и OpenClaw. Рядом Mini App к датчикам Escort TH-BLE по Bluetooth.
-
-[openclaw-skill-max-bot](https://github.com/SC32br/openclaw-skill-max-bot) · [escort-th-ble-miniapp](https://github.com/SC32br/escort-th-ble-miniapp)
+Скилы для Hermes и OpenClaw: [imagen](https://github.com/SC32br/hermes-skill-imagen-vertex), [veo](https://github.com/SC32br/hermes-skill-veo-vertex), [MAX](https://github.com/SC32br/hermes-skill-max-bot), [pixel-office](https://github.com/SC32br/openclaw-skill-pixel-office). Рядом [Mini App](https://github.com/SC32br/escort-th-ble-miniapp) к датчикам Escort TH-BLE.
 
 ## Стек
 
