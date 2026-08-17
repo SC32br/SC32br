@@ -3,7 +3,7 @@
 # Привет, я Сергей Ноздров
 
 <a href="https://ns.нейросинк.рф/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=620&height=50&color=58A6FF&vCenter=true&pause=1000&size=22&lines=Автоматизация+бизнес-процессов;AI-агенты;Нейросети;Vibecoding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=620&height=50&color=58A6FF&vCenter=true&pause=1000&size=22&lines=%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2%3BAI-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%8B%3B%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%3BVibecoding" alt="Typing SVG" />
 </a>
 
 **Автоматизация бизнес-процессов • AI-агенты • Нейросети • Vibecoding**
