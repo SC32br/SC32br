@@ -3,10 +3,10 @@
 # Привет, я Сергей Ноздров
 
 <a href="https://ns.нейросинк.рф/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=560&height=50&color=58A6FF&vCenter=true&pause=1000&size=22&lines=AI/LLM-инженер;RAG+и+мультиагенты;Боты+Telegram+и+MAX;Автопубликация+в+прод" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=620&height=50&color=58A6FF&vCenter=true&pause=1000&size=22&lines=Автоматизация+бизнес-процессов;AI-агенты;Нейросети;Vibecoding" alt="Typing SVG" />
 </a>
 
-**RAG • мультиагенты • боты • автопубликация**
+**Автоматизация бизнес-процессов • AI-агенты • Нейросети • Vibecoding**
 
 <p align="center">
   <a href="https://ns.нейросинк.рф/"><img src="https://img.shields.io/badge/Сайт-нейросинк.рф-0D1117?style=for-the-badge" alt="Сайт"></a>
@@ -19,27 +19,29 @@
 
 ---
 
-### Кто я
+## Кто я
 
-13 лет руководил «Системами Контроля»: спутниковый мониторинг транспорта и цифровой контроль температуры, в том числе холодовая цепь. С 2024 пишу ИИ руками, не как менеджер: RAG, мультиагентные платформы, боты, движки автопубликации. Свидетельство на ПО [RU2025685943](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025685943).
+Тринадцать лет я вёл компанию «Системы Контроля»: спутниковый мониторинг транспорта, датчики температуры, холодовая цепь лекарств. В 2021 мой проект цифрового контроля температуры для вакцины «Спутник V» масштабировали по регионам. С 2024 собираю сервисы на Python и LLM. Начинал со сценариев make.com. Дальше ушёл в FastAPI, RAG, агенты Cursor и OpenClaw, публикацию в Telegram, ВК и MAX. На обработку логов температуры есть свидетельство [RU2025685943](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025685943).
 
-Брянск · удалёнка
+Брянск, работаю удалённо.
 
----
+## Что уже работает
 
-### В проде
+Вируся пишет и публикует посты командой агентов, файлы остаются на моём сервере.
 
-- **Вируся** — команда агентов ведёт соцсети и блог как отдел, данные на своём сервере
-- **Форт Боярд** — RAG-консультант продаж: отвечает, называет цену, доводит до брони
-- **Hermes** — личный агент с субагентами: ищет, пишет, запускает инструменты
-- **Publisher** — один пост в Telegram, ВК, MAX и на сайты по таблице
-- **ANEX** — парсер горящих туров и постинг в Telegram
+Заявки на праздник «Форт Боярд» бот берёт ночью: диалог, цена, бронь. Менеджер подключается, когда дата уже выбрана.
 
-Полная витрина: [ns.нейросинк.рф](https://ns.нейросинк.рф/)
+Hermes держу для себя: 88 скилов, субагенты ищут материалы, разбирают документы, запускают инструменты.
 
----
+Publisher читает план из Google-таблицы и рассылает один пост в Telegram, ВК, MAX и на сайт.
 
-### Open source: скилы Hermes / OpenClaw
+ANEX забирает горящие туры из TourVisor примерно с 30 операторов, прогоняет правила по 14 направлениям и постит в Telegram.
+
+Кейсы: [ns.нейросинк.рф](https://ns.нейросинк.рф/)
+
+## Open source
+
+Скилы Imagen, Veo, MAX и pixel-office для Hermes и OpenClaw. Рядом Mini App к датчикам Escort TH-BLE по Bluetooth.
 
 <div align="center">
   <a href="https://github.com/SC32br/hermes-skill-imagen-vertex">
@@ -56,11 +58,9 @@
   </a>
 </div>
 
-Ещё: [openclaw-skill-max-bot](https://github.com/SC32br/openclaw-skill-max-bot) · [escort-th-ble-miniapp](https://github.com/SC32br/escort-th-ble-miniapp)
+[openclaw-skill-max-bot](https://github.com/SC32br/openclaw-skill-max-bot) · [escort-th-ble-miniapp](https://github.com/SC32br/escort-th-ble-miniapp)
 
----
-
-### Стек
+## Стек
 
 <div align="center">
 
@@ -81,4 +81,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SC32br&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top languages" />
 </div>
 
-Открыт к удалёнке и проектам по ИИ.
+Беру удалённые заказы на автоматизацию процессов, агентов и внедрение нейросетей.
