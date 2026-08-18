@@ -41,6 +41,12 @@ ANEX забирает горящие туры из TourVisor примерно с
 
 ## Open source
 
+[Радар заказов](https://github.com/SC32br/winner-radar) забирает подписанные контракты с ЕИС и кладёт победителя в дашборд: телефон, файлы, кому звонить.
+
+[Живой цех](https://github.com/SC32br/agent-workshop) кликается по персонажам, кадры webp, анимация GSAP. Демо: [sc32br.github.io/agent-workshop](https://sc32br.github.io/agent-workshop/).
+
+[Фабрика каруселей](https://github.com/SC32br/carousel-factory) собирает девять слайдов, человек подтверждает в Telegram, дальше публикация.
+
 Скилы для Hermes и OpenClaw: [imagen](https://github.com/SC32br/hermes-skill-imagen-vertex), [veo](https://github.com/SC32br/hermes-skill-veo-vertex), [MAX](https://github.com/SC32br/hermes-skill-max-bot), [pixel-office](https://github.com/SC32br/openclaw-skill-pixel-office). Рядом [Mini App](https://github.com/SC32br/escort-th-ble-miniapp) к датчикам Escort TH-BLE.
 
 ## Стек
